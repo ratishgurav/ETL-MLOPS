@@ -1,0 +1,8 @@
+README.md
+setup.py
+ETL_MLOPS.egg-info/PKG-INFO
+ETL_MLOPS.egg-info/SOURCES.txt
+ETL_MLOPS.egg-info/dependency_links.txt
+ETL_MLOPS.egg-info/requires.txt
+ETL_MLOPS.egg-info/top_level.txt
+src/__init__.py
